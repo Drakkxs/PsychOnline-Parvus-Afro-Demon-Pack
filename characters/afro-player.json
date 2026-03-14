@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "afro idle"
+		},
+		{
+			"offsets": [
+				-11,
+				11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				2
+			],
+			"name": "afro up"
+		},
+		{
+			"offsets": [
+				-70,
+				30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "afro right"
+		},
+		{
+			"offsets": [
+				-8,
+				-1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "afro left"
+		},
+		{
+			"offsets": [
+				-17,
+				136
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "afro down"
+		}
+	],
+	"vocals_file": "",
+	"results_character": null,
+	"no_antialiasing": false,
+	"image": "characters/afro",
+	"position": [
+		-340,
+		-180
+	],
+	"speaker": null,
+	"healthicon": "afro",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		1,
+		1
+	],
+	"camera_position": [
+		0,
+		-110
+	],
+	"sing_duration": 4,
+	"dead_character": null,
+	"scale": 1
+}

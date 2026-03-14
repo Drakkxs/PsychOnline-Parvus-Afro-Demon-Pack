@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="afro.png">
+<SubTexture name="afro down0000" x="1899" y="1024" width="522" height="936" frameX="-274" frameY="-188" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro down0001" x="0" y="0" width="326" height="1024" frameX="-361" frameY="-100" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro idle0000" x="2632" y="919" width="589" height="888" frameX="-229" frameY="-123" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro idle0001" x="2085" y="1982" width="630" height="865" frameX="-208" frameY="-146" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro idle0002" x="1455" y="1982" width="630" height="875" frameX="-208" frameY="-136" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro idle0003" x="866" y="1982" width="589" height="887" frameX="-229" frameY="-124" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro left0000" x="326" y="0" width="736" height="999" frameX="0" frameY="-15" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro left0001" x="2632" y="0" width="633" height="919" frameX="-170" frameY="-110" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro left0002" x="655" y="1024" width="597" height="957" frameX="-169" frameY="-72" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro right0000" x="1928" y="0" width="704" height="958" frameX="-221" frameY="-75" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro right0001" x="0" y="1024" width="655" height="958" frameX="-181" frameY="-75" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro right0002" x="1252" y="1024" width="647" height="940" frameX="-204" frameY="-93" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro up0000" x="1062" y="0" width="866" height="987" frameX="-81" frameY="-4" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro up0001" x="3265" y="0" width="1040" height="811" frameX="0" frameY="-180" frameWidth="1050" frameHeight="1150" />
+<SubTexture name="afro up0002" x="0" y="1982" width="866" height="892" frameX="-81" frameY="-99" frameWidth="1050" frameHeight="1150" />
+</TextureAtlas>

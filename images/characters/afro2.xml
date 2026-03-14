@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="afro2.png">
+<SubTexture name="danceLeft0000" x="1068" y="944" width="489" height="672" frameX="-114" frameY="-270" frameWidth="768" frameHeight="977" />
+<SubTexture name="danceLeft0001" x="2179" y="0" width="473" height="671" frameX="-145" frameY="-270" frameWidth="768" frameHeight="977" />
+<SubTexture name="danceRight0000" x="1557" y="944" width="488" height="672" frameX="-165" frameY="-270" frameWidth="768" frameHeight="977" />
+<SubTexture name="danceRight0001" x="2179" y="671" width="473" height="671" frameX="-150" frameY="-270" frameWidth="768" frameHeight="977" />
+<SubTexture name="down0000" x="0" y="1628" width="357" height="569" frameX="-230" frameY="-282" frameWidth="768" frameHeight="977" />
+<SubTexture name="down0001" x="357" y="1628" width="417" height="565" frameX="-206" frameY="-286" frameWidth="768" frameHeight="977" />
+<SubTexture name="left0000" x="507" y="944" width="561" height="677" frameX="-95" frameY="-175" frameWidth="768" frameHeight="977" />
+<SubTexture name="left0001" x="0" y="944" width="507" height="684" frameX="-163" frameY="-167" frameWidth="768" frameHeight="977" />
+<SubTexture name="right0000" x="1571" y="0" width="608" height="863" frameX="-45" frameY="-81" frameWidth="768" frameHeight="977" />
+<SubTexture name="right0001" x="1007" y="0" width="564" height="864" frameX="-45" frameY="-80" frameWidth="768" frameHeight="977" />
+<SubTexture name="up0000" x="0" y="0" width="500" height="944" frameX="-122" frameY="0" frameWidth="768" frameHeight="977" />
+<SubTexture name="up0001" x="500" y="0" width="507" height="878" frameX="-128" frameY="-61" frameWidth="768" frameHeight="977" />
+</TextureAtlas>
